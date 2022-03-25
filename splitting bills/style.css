@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+    background-color: white;
+}
+button{
+    background: white;
+    background-color: brown;
+    padding: 8px 40px;
+}
